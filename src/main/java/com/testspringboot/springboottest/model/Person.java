@@ -40,4 +40,7 @@ public class Person {
     public  void eat(String dongxi){
         System.out.println("吃东西"+dongxi);
     }
+    public  void eat(int dongxi){
+        System.out.println("吃东西"+dongxi);
+    }
 }

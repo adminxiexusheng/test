@@ -31,6 +31,7 @@ public class StudentController {
         List<Student> map= studentService.selectAll();
         System.out.println("切点方法执行完毕");
         System.out.println("新增一行代码");
+        System.out.println("新增");
         return map;
 
     }

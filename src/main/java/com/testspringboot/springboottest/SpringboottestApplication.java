@@ -3,6 +3,7 @@ package com.testspringboot.springboottest;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//测试demo
 @SpringBootApplication
 public class SpringboottestApplication {
 

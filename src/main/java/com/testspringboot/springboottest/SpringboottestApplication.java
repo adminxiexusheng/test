@@ -10,6 +10,7 @@ public class SpringboottestApplication {
 
         SpringApplication.run(SpringboottestApplication.class, args);
         System.out.println("hello springboot");
+        System.out.println("解决冲突");
     }
 
 }

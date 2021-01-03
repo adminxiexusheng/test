@@ -30,6 +30,7 @@ public class StudentController {
         System.out.println("执行了方法");
         List<Student> map= studentService.selectAll();
         System.out.println("切点方法执行完毕");
+        System.out.println("新增一行代码");
         return map;
 
     }
